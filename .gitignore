@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Autogen
+
+*.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
@@ -41,6 +45,7 @@
 *.VC.db
 *.VC.opendb
 .vsconfig
+ProjectMeili.uproject
 
 # Precompiled Assets
 SourceArt/**/*.png
